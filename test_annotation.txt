@@ -1,0 +1,8 @@
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_1bd692580_png_jpg.rf.7d79ec41a9004accc0af526c19c428cd.jpg,362,233,547,483,Subarachnoid
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_bb62bea9e_png_jpg.rf.a0c17951bdba256ca78b771477c6a3f9.jpg,212,413,290,474,Subarachnoid
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_2b0b547ab_png_jpg.rf.ee21d4fd044bdead19a96e0835dc8a18.jpg,404,356,491,457,Subarachnoid
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_f22d6c931_png_jpg.rf.09df10f3f9a7f6b78db3886c2401fc65.jpg,150,108,311,280,Intraparenchymal
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_7927e4fd8_png_jpg.rf.64a5f071c3ddf23f44fdb1fb6d5a51b7.jpg,207,161,324,505,Subdural
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_555a877b8_png_jpg.rf.55afbccc3fecb8b91d8fc3734ba87d6f.jpg,201,411,270,538,Subarachnoid
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_104b09f8d_png_jpg.rf.0a7a08506ed3dcd1baca1c61aa0b7b11.jpg,290,174,371,293,Intraventricular
+C:\Users\abhig\OneDrive\Desktop\ctscan2025\Project\test\ID_2f0772df9_png_jpg.rf.c149b1236c8cace980bb2bcb8824ee1f.jpg,194,291,219,341,Intraparenchymal
